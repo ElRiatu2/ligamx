@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX",Liga MX 1
+URL_DEL_STREAM
+
+#EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 2
+URL_DEL_STREAM
+
+#EXTINF:-1 tvg-id="ligamx3" tvg-name="Liga MX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 3
+URL_DEL_STREAM
+
+#EXTINF:-1 tvg-id="ligamx4" tvg-name="Liga MX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 4
+URL_DEL_STREAM
