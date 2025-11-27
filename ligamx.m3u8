@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX",Liga MX  Guadalajara vs. Cruz Azul 8:07pm
+#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://images.seeklogo.com/logo-png/2/2/chivas-2007-logo-png_seeklogo-29875.png" group-title="Liga MX",Liga MX  Guadalajara vs. Cruz Azul 8:07pm
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e27a8ce5-66a8-4b0a-9630-ea8191a963ca.ts
 
 #EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 2
