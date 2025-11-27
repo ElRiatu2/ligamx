@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX",JUAREZ VS TOLUCA - 7:00PM
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f5b2ce72-041e-4946-b514-a865f52d2ed3.ts
+#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX",Liga MX  Guadalajara vs. Cruz Azul 8:07pm
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e27a8ce5-66a8-4b0a-9630-ea8191a963ca.ts
 
-#EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",MONTERREY VS AMERICA - 9:05PM
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/e9428022-dd6b-4ab5-89cb-f9765bd72b1b.ts
+#EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 2
+URL_DEL_STREAM
 
-#EXTINF:-1 tvg-id="ligamx3" tvg-name="Liga MX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",TIJUANA VS TIGRES - 11:00PM
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f9c0f502-ab3d-4471-a4ef-eca6c46f4798.ts
+#EXTINF:-1 tvg-id="ligamx3" tvg-name="Liga MX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 3
+URL_DEL_STREAM
 
 #EXTINF:-1 tvg-id="ligamx4" tvg-name="Liga MX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 4
 URL_DEL_STREAM
