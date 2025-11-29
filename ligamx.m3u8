@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://images.seeklogo.com/logo-png/2/2/chivas-2007-logo-png_seeklogo-29875.png" group-title="Liga MX",Liga MX  Guadalajara vs. Cruz Azul 8:07pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/2a57b77f-ddf3-41b6-aed4-77ca1e336f21.ts
+#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://static.flashscore.com/res/image/data/OIErBVEa-6F5RD2as-OGkmEu0T.png" group-title="Liga MX",Liga MX América vs. Monterrey 5:00pm
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/4bb4f7ca-16d6-4e7f-bdbe-87745382f6d0.ts
 
-#EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 2
-URL_DEL_STREAM
+#EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://static.flashscore.com/res/image/data/2XmJUlzB-rZdoHuQQ-OSiYNR3p.png" group-title="Liga MX ",Liga MX Toluca vs Juarez 7:05pm
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/5aaa1d3e-10c6-4a7d-8d34-e905ec019f72.ts
 
-#EXTINF:-1 tvg-id="ligamx3" tvg-name="Liga MX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 3
-URL_DEL_STREAM
+#EXTINF:-1 tvg-id="ligamx3" tvg-name="Liga MX 3" tvg-logo="https://a.espncdn.com/i/teamlogos/soccer/500/232.png" group-title="Liga MX ",Liga MX Tigres UANL vs Tijuana 9:10pm
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/f33a3ca4-437f-40bf-95f5-096a4858d1e6.ts
 
 #EXTINF:-1 tvg-id="ligamx4" tvg-name="Liga MX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/330px-MX_logo.png" group-title="Liga MX ",Liga MX 4
 URL_DEL_STREAM
