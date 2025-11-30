@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://static.flashscore.com/res/image/data/OIErBVEa-6F5RD2as-OGkmEu0T.png" group-title="Liga MX",Liga MX América vs. Monterrey 5:00pm
-http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/4bb4f7ca-16d6-4e7f-bdbe-87745382f6d0.ts
+#EXTINF:-1 tvg-id="ligamx1" tvg-name="Liga MX 1" tvg-logo="https://static.flashscore.com/res/image/data/juUdUvvS-O6IdgeN9-4UD5BJKp.png" group-title="Liga MX",Liga MX Cruz Azul vs Guadalajara 7:00pm
+http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/be203421-a8b9-42c2-9ad3-a47585214fbb.ts
 
 #EXTINF:-1 tvg-id="ligamx2" tvg-name="Liga MX 2" tvg-logo="https://static.flashscore.com/res/image/data/2XmJUlzB-rZdoHuQQ-OSiYNR3p.png" group-title="Liga MX ",Liga MX Toluca vs Juarez 7:05pm
 http://zgazy.com:8080/live/AlanNunez1080/2bUzE5rJAj/4bb4f7ca-16d6-4e7f-bdbe-87745382f6d0.ts
